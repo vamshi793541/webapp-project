@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>welcome to devops course by mr hari!</h2>
+<h2>welcome to zomato online website!</h2>
 </body>
 </html>
